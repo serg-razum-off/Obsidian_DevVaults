@@ -11,6 +11,14 @@
             "id": "4c3bf94525fcea35",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f077eab15736c92",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "0. Vega-Lite knowledge hub.md",
@@ -21,26 +29,13 @@
             }
           },
           {
-            "id": "5eae8a802e5a61d3",
+            "id": "a890f7e1362c5de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config.md",
+                "file": "Encodings.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f077eab15736c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vega-Lite trailMark.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -50,12 +45,17 @@
             "id": "7b6ecbd02f503034",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vega-LIte Area Mark.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -67,6 +67,7 @@
       {
         "id": "8b5ce73dc7a90fda",
         "type": "tabs",
+        "dimension": 60.80097087378641,
         "children": [
           {
             "id": "16610c2300ed9b3a",
@@ -82,14 +83,12 @@
             "id": "8c14f9599cf77086",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "markdown",
               "state": {
-                "query": "conf",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "file": "0. Vega-Lite knowledge hub.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -100,9 +99,66 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "305040033d096cd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#VegaLiteMarksProps  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "5b04adc6f17eaecf",
+        "type": "tabs",
+        "dimension": 39.19902912621359,
+        "children": [
+          {
+            "id": "ac13172a48d1a0d7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Vega-LIte Area Mark.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1.28679833679834,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6554983534946923,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Config.md",
+                "file": "Vega-LIte Area Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Config.md",
+                "file": "Vega-LIte Area Mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,18 +211,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "b90496bd815d414b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Config.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,15 +231,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5eae8a802e5a61d3",
+  "active": "7b6ecbd02f503034",
   "lastOpenFiles": [
-    "Vega-Lite trailMark.md",
+    "Vega-Lite BarChart Mark.md",
+    "Encodings.md",
     "0. Vega-Lite knowledge hub.md",
+    "ChartProperties.md",
+    "Marks Properties.md",
+    "Vega-Lite trailMark.md",
     "Vega-Lite Line Mark.md",
     "Config.md",
     "Vega-LIte Area Mark.md",
-    "Marks Properties.md",
-    "Vega-Lite BarChart Mark.md",
     "Pasted image 20231119153334.png",
     "Pasted image 20231119152210.png",
     "Pasted image 20231119152159.png",
