@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "fd07ad76114a39b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae8d6e70bb510665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66597fcb150488e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab25aed3395aaac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. AutoHotKey Entrance Point.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e6162e11dcdf277",
+    "type": "split",
+    "children": [
+      {
+        "id": "c054b41efa25a51f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0f325aefe070249",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56b222d1e7743189",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6f8496c883c6a80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2143153ccf296323",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ef70f32d1b7d682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf05cd7fac6b96b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. AutoHotKey Entrance Point.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a882e11063336407",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. AutoHotKey Entrance Point.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f63770f16fb7a3b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "499302fda742e182",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. AutoHotKey Entrance Point.md"
+              }
+            }
+          },
+          {
+            "id": "6a01c212a43006d3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ab25aed3395aaac7",
+  "lastOpenFiles": [
+    "AHK files/powerBi.ahk",
+    "AHK files",
+    "Новая папка",
+    "0. AutoHotKey Entrance Point.md"
+  ]
+}
