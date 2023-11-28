@@ -22,14 +22,27 @@
               "type": "markdown",
               "state": {
                 "file": "PowerShell/$PROFILE.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "278ba06ab95a4ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PowerQuery/0. PowerQuery hottest snippets.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowerShell/$PROFILE.md",
+                "file": "PowerQuery/0. PowerQuery hottest snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PowerShell/$PROFILE.md",
+                "file": "PowerQuery/0. PowerQuery hottest snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PowerShell/$PROFILE.md"
+                "file": "PowerQuery/0. PowerQuery hottest snippets.md"
               }
             }
           }
@@ -156,10 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acbe00a637c7a329",
+  "active": "278ba06ab95a4ccb",
   "lastOpenFiles": [
+    "PowerShell/$PROFILE.md",
+    "PowerQuery/0. PowerQuery hottest snippets.md",
+    "PowerQuery",
+    "AutoHotKey/0. AutoHotKey Entrance Point.md",
     "Pasted image 20231127102949.png",
-    "clip",
-    "PowerShell/$PROFILE.md"
+    "clip"
   ]
 }
