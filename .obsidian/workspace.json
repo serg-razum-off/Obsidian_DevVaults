@@ -4,50 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4baff1f1839db857",
+        "id": "3d421926edbd9743",
         "type": "tabs",
         "children": [
           {
-            "id": "1e7b07391cd3a098",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "acbe00a637c7a329",
+            "id": "f5f84715e7e0516f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerShell/$PROFILE.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "278ba06ab95a4ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PowerQuery/0. PowerQuery hottest snippets.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "996379e1d8fa09b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pandas/0. Entrance to PD =).md",
+                "file": "Altair/Altair Solutions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,12 +21,12 @@
             }
           },
           {
-            "id": "61277b38e46f29ba",
+            "id": "600faa56c7d35837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandas/0. Entrance to PD =).md",
+                "file": "Altair/MiscDecor/Legend.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,12 +34,12 @@
             }
           },
           {
-            "id": "1bba9896971c5728",
+            "id": "d31df79429e5548f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altair/0. Altair General.md",
+                "file": "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,12 +47,12 @@
             }
           },
           {
-            "id": "c2643fa0f4af9a82",
+            "id": "ecd46c5a140204ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandas/0. Entrance to PD =).md",
+                "file": "Altair/0. Altair.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,12 +60,12 @@
             }
           },
           {
-            "id": "c4300fd50c834547",
+            "id": "af3554502c6b95c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandas/0. Entrance to PD =).md",
+                "file": "Altair/Altair Grammar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,20 +73,20 @@
             }
           },
           {
-            "id": "1789b33feefb2f58",
+            "id": "25e953ec666d2289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altair/Alt.GanntChart.md",
-                "mode": "preview",
+                "file": "Altair/AltairGrammar_Selection.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -180,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Altair/Alt.GanntChart.md",
+                "file": "Altair/AltairGrammar_Selection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +169,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 58,
-                  "scale": 1,
+                  "scale": 0.7501830719502036,
                   "close": true
                 }
               }
@@ -229,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altair/Alt.GanntChart.md",
+                "file": "Altair/AltairGrammar_Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altair/Alt.GanntChart.md",
+                "file": "Altair/AltairGrammar_Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altair/Alt.GanntChart.md"
+                "file": "Altair/AltairGrammar_Selection.md"
               }
             }
           },
@@ -299,19 +265,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1789b33feefb2f58",
+  "active": "25e953ec666d2289",
   "lastOpenFiles": [
-    "Pandas/df_Visual_Properties.md",
-    "Altair/Alt.GanntChart.md",
-    "Altair/0. Altair General.md",
-    "Pandas/pandas.DF.Query.md",
+    "Altair/BarCharts/Alt.GanntChart.md",
+    "Altair/AltairGrammar_Selection.md",
+    "Altair/Altair Grammar.md",
+    "Altair/0. Altair.md",
+    "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
+    "Altair/Altair Solutions.md",
     "Pandas/0. Entrance to PD =).md",
+    "Altair/Alt Pics/Pasted image 20231130171605.png",
+    "Altair/MiscDecor/HeatMapAsLegend.md",
+    "Altair/MiscDecor/Alt.ClickableLegend.md",
+    "Altair/MiscDecor/Legend.md",
+    "altair/MiscDecor/Alt.ClickableLegend.md",
+    "altair/MiscDecor/Legend.md",
+    "Altair/MiscDecor",
+    "altair/MiscDecor",
+    "Altair/Alt Pics/Pasted image 20231130170941.png",
+    "Altair/LineCharts",
+    "Altair/BarCharts",
+    "Altair/LineCharts/Alt.LineCharts.md",
+    "PowerShell/$PROFILE.md",
+    "PowerQuery/0. PowerQuery hottest snippets.md",
+    "Altair/Alt Pics",
+    "Altair/Alt Pics/Pasted image 20231130161736.png",
+    "Pandas/df_Visual_Properties.md",
+    "Pandas/pandas.DF.Query.md",
     "Pandas/df_workingWithDates.md",
     "Altair",
     "Pandas/[pandas.DF.Query.md",
-    "PowerQuery/0. PowerQuery hottest snippets.md",
     "Pandas",
-    "PowerShell/$PROFILE.md",
     "PowerQuery",
     "AutoHotKey/0. AutoHotKey Entrance Point.md",
     "Pasted image 20231127102949.png",
