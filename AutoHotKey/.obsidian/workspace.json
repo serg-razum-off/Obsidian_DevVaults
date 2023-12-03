@@ -11,18 +11,24 @@
             "id": "66597fcb150488e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. AutoHotKey Entrance Point.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "ab25aed3395aaac7",
+            "id": "635ea7348d8891a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0. AutoHotKey Entrance Point.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -164,11 +170,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab25aed3395aaac7",
+  "active": "635ea7348d8891a5",
   "lastOpenFiles": [
+    "ahk_basics.md",
+    "AHK Imgs",
+    "AHK Imgs/Pasted image 20231203214158.png",
+    "AHK Imgs/Pasted image 20231203214145.png",
+    "0. AutoHotKey Entrance Point.md",
     "AHK files/powerBi.ahk",
     "AHK files",
-    "Новая папка",
-    "0. AutoHotKey Entrance Point.md"
+    "Новая папка"
   ]
 }

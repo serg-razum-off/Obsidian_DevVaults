@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altair/AltairGrammar_Selection.md",
+                "file": "Pandas/df_Visual_Properties.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Altair/AltairGrammar_Selection.md",
+                "file": "Pandas/df_Visual_Properties.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altair/AltairGrammar_Selection.md",
+                "file": "Pandas/df_Visual_Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altair/AltairGrammar_Selection.md",
+                "file": "Pandas/df_Visual_Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altair/AltairGrammar_Selection.md"
+                "file": "Pandas/df_Visual_Properties.md"
               }
             }
           },
@@ -267,8 +267,8 @@
   },
   "active": "25e953ec666d2289",
   "lastOpenFiles": [
-    "Altair/BarCharts/Alt.GanntChart.md",
     "Altair/AltairGrammar_Selection.md",
+    "Altair/BarCharts/Alt.GanntChart.md",
     "Altair/Altair Grammar.md",
     "Altair/0. Altair.md",
     "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
