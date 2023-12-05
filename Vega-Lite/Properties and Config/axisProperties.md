@@ -1,11 +1,11 @@
-#VegaLiteChartProps 
+##### Axis Duplication
 this is some dicts that are placed on the same level with "encoding":
 - resolve
 	- can B used for duplication of axes on the small multiples chart
 ```
 	"resolve": {"axis":{"x":"independent"}}
 ```
-- repaeting axis [pbi-G](https://youtu.be/I6FZYTSKI6Y?list=PL6oIJxyQvMGTxh4tREeKflcKVlOfGdyim&t=478)
+- repeating axis [pbi-G](https://youtu.be/I6FZYTSKI6Y?list=PL6oIJxyQvMGTxh4tREeKflcKVlOfGdyim&t=478)
 	- no width and hight
 ```
 	"repeat":["measure1", "measure2","measure3 "],
@@ -19,3 +19,9 @@ this is some dicts that are placed on the same level with "encoding":
 			} },
 ```
 ![[Pasted image 20231119212657.png]]
+
+##### Axis labels
+###### Labels off
+| code | result |
+| ---- | ------ |
+| ![[Pasted image 20231205173704.png]]     |  axis without label      |

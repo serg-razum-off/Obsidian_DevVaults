@@ -1,10 +1,10 @@
 
-- BarCharts
-[[Alt.GanntChart]]
+- [[BarCharts]]
+	
 
-- LineCharts
-[[Alt.LineCharts]]
+- [[LineCharts]]
 
-- Miscelanoius Decor
-[[Legend]]
+
+- [[Miscelanoius Decor]]
+
 

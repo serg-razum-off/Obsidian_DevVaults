@@ -4,89 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3d421926edbd9743",
+        "id": "f5972ad9367e0bb2",
         "type": "tabs",
         "children": [
           {
-            "id": "f5f84715e7e0516f",
+            "id": "93ab9f052f86c476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altair/Altair Solutions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "600faa56c7d35837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/MiscDecor/Legend.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d31df79429e5548f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd46c5a140204ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/0. Altair.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af3554502c6b95c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/Altair Grammar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25e953ec666d2289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/AltairGrammar_Selection.md",
+                "file": "Vega-Lite/Properties and Config/Additional Configuration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Altair/AltairGrammar_Selection.md",
+                "file": "Vega-Lite/Properties and Config/Additional Configuration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 58,
-                  "scale": 0.7501830719502036,
+                  "scale": 0.6665109816957725,
                   "close": true
                 }
               }
@@ -179,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "right": {
     "id": "f0eb1779172e6fc2",
@@ -195,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altair/AltairGrammar_Selection.md",
+                "file": "Vega-Lite/Properties and Config/Additional Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altair/AltairGrammar_Selection.md",
+                "file": "Vega-Lite/Properties and Config/Additional Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altair/AltairGrammar_Selection.md"
+                "file": "Vega-Lite/Properties and Config/Additional Configuration.md"
               }
             }
           },
@@ -265,40 +199,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25e953ec666d2289",
+  "active": "93ab9f052f86c476",
   "lastOpenFiles": [
-    "Altair/BarCharts/Alt.GanntChart.md",
-    "Altair/AltairGrammar_Selection.md",
-    "Altair/Altair Grammar.md",
-    "Altair/0. Altair.md",
-    "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
+    "Vega-Lite/0. Vega-Lite knowledge hub.md",
+    "Vega-Lite/VegaLineMark/Vega-Lite Line Mark.md",
     "Altair/Altair Solutions.md",
+    "Altair/MiscDecor/Legend.md",
+    "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
+    "Altair/0. Altair Entrance Point.md",
+    "Altair/Alt Grammar/Altair Grammar.md",
+    "Vega-Lite/Properties and Config/Additional Configuration.md",
+    "Vega-Lite/Properties and Config/VLsolutionsForDates.md",
+    "Vega-Lite/Properties and Config/ChartProperties.md",
+    "Vega-Lite/Properties and Config/axisProperties.md",
+    "Pasted image 20231205173704.png",
+    "Pasted image 20231205145828.png",
+    "Pasted image 20231205145846.png",
+    "Vega-Lite/imgs/Pasted image 20231205145602.png",
+    "Vega-Lite/imgs/Pasted image 20231205145118.png",
+    "Vega-Lite/imgs/Pasted image 20231205145025.png",
+    "Vega-Lite/imgs/Pasted image 20231205143414.png",
+    "Vega-Lite/imgs/Pasted image 20231205143741.png",
+    "Vega-Lite/VegaGrammar/Encodings.md",
+    "Vega-Lite/VegaGrammar/Marks Properties.md",
+    "Vega-Lite/imgs/Pasted image 20231119212657.png",
+    "Vega-Lite/VegaGrammar",
+    "Vega-Lite/VegaLineMark",
+    "Altair/Alt Connectivity/Altair to Vega-Lite export.md",
+    "Altair/LargeDatasets.md",
+    "Altair/BarCharts/Alt.GanntChart.md",
+    "Altair/LineCharts/LineCharts.md",
+    "Altair/BarCharts/BarCharts.md",
+    "Altair/MiscDecor/Miscelanoius Decor.md",
+    "Altair/LineCharts/1. Alt.LineCharts.md",
+    "Altair/Alt Grammar/AltairGrammar_Selection.md",
+    "Altair/Alt Connectivity",
+    "Altair/Alt Grammar",
+    "Altair/LineCharts/Alt.LineChart_LineLastDotLabel.md",
+    "Altair/Alt Pics/Pasted image 20231201143646.png",
     "Pandas/0. Entrance to PD =).md",
-    "Altair/Alt Pics/Pasted image 20231130171605.png",
     "Altair/MiscDecor/HeatMapAsLegend.md",
     "Altair/MiscDecor/Alt.ClickableLegend.md",
-    "Altair/MiscDecor/Legend.md",
-    "altair/MiscDecor/Alt.ClickableLegend.md",
-    "altair/MiscDecor/Legend.md",
     "Altair/MiscDecor",
     "altair/MiscDecor",
-    "Altair/Alt Pics/Pasted image 20231130170941.png",
     "Altair/LineCharts",
     "Altair/BarCharts",
-    "Altair/LineCharts/Alt.LineCharts.md",
-    "PowerShell/$PROFILE.md",
-    "PowerQuery/0. PowerQuery hottest snippets.md",
     "Altair/Alt Pics",
-    "Altair/Alt Pics/Pasted image 20231130161736.png",
-    "Pandas/df_Visual_Properties.md",
-    "Pandas/pandas.DF.Query.md",
-    "Pandas/df_workingWithDates.md",
-    "Altair",
-    "Pandas/[pandas.DF.Query.md",
-    "Pandas",
-    "PowerQuery",
-    "AutoHotKey/0. AutoHotKey Entrance Point.md",
-    "Pasted image 20231127102949.png",
-    "clip"
+    "Altair"
   ]
 }
