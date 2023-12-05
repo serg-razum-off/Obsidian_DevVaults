@@ -4,309 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3d421926edbd9743",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5f84715e7e0516f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/Altair Solutions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "600faa56c7d35837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/MiscDecor/Legend.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d31df79429e5548f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd46c5a140204ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/0. Altair.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af3554502c6b95c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altair/Altair Grammar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25e953ec666d2289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pandas/df_Visual_Properties.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "c84939856acbac24",
-    "type": "split",
-    "children": [
-      {
-        "id": "94f7772867e72107",
-        "type": "tabs",
-        "dimension": 58.700980392156865,
-        "children": [
-          {
-            "id": "0e6c4ae0f28f08b6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f7c11e19414313d3",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "35624fb92a6807d6",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "a49f09c248e7a10b",
-        "type": "tabs",
-        "dimension": 41.299019607843135,
-        "children": [
-          {
-            "id": "988ffb08505b8ede",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Pandas/df_Visual_Properties.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 58,
-                  "scale": 0.7501830719502036,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "f0eb1779172e6fc2",
-    "type": "split",
-    "children": [
-      {
-        "id": "57e8a714aa9cf051",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "292d4158d704ac5a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Pandas/df_Visual_Properties.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "35a9728ca8def2ce",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pandas/df_Visual_Properties.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6e4f234627cc4b85",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "b7de0673e0dc3d70",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pandas/df_Visual_Properties.md"
-              }
-            }
-          },
-          {
-            "id": "3431acbba012e422",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
-    }
-  },
-  "active": "25e953ec666d2289",
-  "lastOpenFiles": [
-    "Altair/AltairGrammar_Selection.md",
-    "Altair/BarCharts/Alt.GanntChart.md",
-    "Altair/Altair Grammar.md",
-    "Altair/0. Altair.md",
-    "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
-    "Altair/Altair Solutions.md",
-    "Pandas/0. Entrance to PD =).md",
-    "Altair/Alt Pics/Pasted image 20231130171605.png",
-    "Altair/MiscDecor/HeatMapAsLegend.md",
-    "Altair/MiscDecor/Alt.ClickableLegend.md",
-    "Altair/MiscDecor/Legend.md",
-    "altair/MiscDecor/Alt.ClickableLegend.md",
-    "altair/MiscDecor/Legend.md",
-    "Altair/MiscDecor",
-    "altair/MiscDecor",
-    "Altair/Alt Pics/Pasted image 20231130170941.png",
-    "Altair/LineCharts",
-    "Altair/BarCharts",
-    "Altair/LineCharts/Alt.LineCharts.md",
-    "PowerShell/$PROFILE.md",
-    "PowerQuery/0. PowerQuery hottest snippets.md",
-    "Altair/Alt Pics",
-    "Altair/Alt Pics/Pasted image 20231130161736.png",
-    "Pandas/df_Visual_Properties.md",
-    "Pandas/pandas.DF.Query.md",
-    "Pandas/df_workingWithDates.md",
-    "Altair",
-    "Pandas/[pandas.DF.Query.md",
-    "Pandas",
-    "PowerQuery",
-    "AutoHotKey/0. AutoHotKey Entrance Point.md",
-    "Pasted image 20231127102949.png",
-    "clip"
-  ]
-}{
-  "main": {
-    "id": "41c2fb3546b0b395",
-    "type": "split",
-    "children": [
-      {
         "id": "f5972ad9367e0bb2",
         "type": "tabs",
         "children": [
@@ -504,6 +201,11 @@
   },
   "active": "93ab9f052f86c476",
   "lastOpenFiles": [
+    "AutoHotKey/ahk_controls.md",
+    "AutoHotKey/ahk_basics.md",
+    "AutoHotKey/AHK Imgs/Pasted image 20231203214158.png",
+    "AutoHotKey/AHK Imgs/Pasted image 20231203214145.png",
+    "AutoHotKey/AHK Imgs",
     "Vega-Lite/0. Vega-Lite knowledge hub.md",
     "Vega-Lite/VegaLineMark/Vega-Lite Line Mark.md",
     "Altair/Altair Solutions.md",
@@ -525,7 +227,6 @@
     "Vega-Lite/imgs/Pasted image 20231205143741.png",
     "Vega-Lite/VegaGrammar/Encodings.md",
     "Vega-Lite/VegaGrammar/Marks Properties.md",
-    "Vega-Lite/imgs/Pasted image 20231119212657.png",
     "Vega-Lite/VegaGrammar",
     "Vega-Lite/VegaLineMark",
     "Altair/Alt Connectivity/Altair to Vega-Lite export.md",
@@ -539,15 +240,12 @@
     "Altair/Alt Connectivity",
     "Altair/Alt Grammar",
     "Altair/LineCharts/Alt.LineChart_LineLastDotLabel.md",
-    "Altair/Alt Pics/Pasted image 20231201143646.png",
     "Pandas/0. Entrance to PD =).md",
     "Altair/MiscDecor/HeatMapAsLegend.md",
-    "Altair/MiscDecor/Alt.ClickableLegend.md",
     "Altair/MiscDecor",
     "altair/MiscDecor",
     "Altair/LineCharts",
     "Altair/BarCharts",
-    "Altair/Alt Pics",
-    "Altair"
+    "Altair/Alt Pics"
   ]
 }
