@@ -13,14 +13,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vega-Lite/Properties and Config/Additional Configuration.md",
+                "file": "Vega-Lite/Properties and Config/ChartProperties.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91973d9f1a032a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vega-Lite/Properties and Config/0.p. Chart Configuration and Customization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d6207ea953efd61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vega-Lite/Properties and Config/0.p. Chart Configuration and Customization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "103d564a00d387ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Altair/MiscDecor/Legend.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7156f99b2b6f9bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vega-Lite/Properties and Config/0.p. Chart Configuration and Customization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "357ffec7c586c854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -50,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dates",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a49f09c248e7a10b",
@@ -80,9 +147,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vega-Lite/Properties and Config/Additional Configuration.md",
+                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -98,12 +165,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 58,
-                  "scale": 0.6665109816957725,
+                  "linkDistance": 40,
+                  "scale": 0.9149104867993089,
                   "close": true
                 }
               }
@@ -129,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vega-Lite/Properties and Config/Additional Configuration.md",
+                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vega-Lite/Properties and Config/Additional Configuration.md",
+                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vega-Lite/Properties and Config/Additional Configuration.md"
+                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md"
               }
             }
           },
@@ -199,33 +266,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93ab9f052f86c476",
+  "active": "357ffec7c586c854",
   "lastOpenFiles": [
+    "Vega-Lite/Properties and Config/0.p. Chart Configuration and Customization.md",
+    "Altair/MiscDecor/Alt.ClickableLegend.md",
+    "Altair/MiscDecor/Legend.md",
+    "Vega-Lite/VegaGrammar/Encodings.md",
+    "Vega-Lite/0. Vega-Lite knowledge hub.md",
+    "Vega-Lite/Selection/Vega-Lite Parameters_sliders.md",
+    "Vega-Lite/Selection/Vega-Lite Selection.md",
+    "Vega-Lite/Selection",
+    "Vega-Lite Parameters/sliders.md",
+    "Vega-Lite Parameters",
+    "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
+    "Altair/Alt Grammar/AltairGrammar_Selection.md",
+    "Altair/Alt Grammar/Altair Grammar.md",
+    "Vega-Lite/Vega-Lite Solution",
+    "Vega-Lite/Properties and Config/ChartProperties.md",
+    "Vega-Lite/Properties and Config/axisProperties.md",
     "AutoHotKey/ahk_controls.md",
     "AutoHotKey/ahk_basics.md",
     "AutoHotKey/AHK Imgs/Pasted image 20231203214158.png",
     "AutoHotKey/AHK Imgs/Pasted image 20231203214145.png",
     "AutoHotKey/AHK Imgs",
-    "Vega-Lite/0. Vega-Lite knowledge hub.md",
     "Vega-Lite/VegaLineMark/Vega-Lite Line Mark.md",
     "Altair/Altair Solutions.md",
-    "Altair/MiscDecor/Legend.md",
     "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
     "Altair/0. Altair Entrance Point.md",
-    "Altair/Alt Grammar/Altair Grammar.md",
-    "Vega-Lite/Properties and Config/Additional Configuration.md",
-    "Vega-Lite/Properties and Config/VLsolutionsForDates.md",
-    "Vega-Lite/Properties and Config/ChartProperties.md",
-    "Vega-Lite/Properties and Config/axisProperties.md",
-    "Pasted image 20231205173704.png",
-    "Pasted image 20231205145828.png",
-    "Pasted image 20231205145846.png",
+    "Vega-Lite/imgs/Pasted image 20231205173704.png",
+    "Vega-Lite/imgs/Pasted image 20231205145828.png",
+    "Vega-Lite/imgs/Pasted image 20231205145846.png",
     "Vega-Lite/imgs/Pasted image 20231205145602.png",
     "Vega-Lite/imgs/Pasted image 20231205145118.png",
     "Vega-Lite/imgs/Pasted image 20231205145025.png",
     "Vega-Lite/imgs/Pasted image 20231205143414.png",
     "Vega-Lite/imgs/Pasted image 20231205143741.png",
-    "Vega-Lite/VegaGrammar/Encodings.md",
     "Vega-Lite/VegaGrammar/Marks Properties.md",
     "Vega-Lite/VegaGrammar",
     "Vega-Lite/VegaLineMark",
@@ -235,17 +310,9 @@
     "Altair/LineCharts/LineCharts.md",
     "Altair/BarCharts/BarCharts.md",
     "Altair/MiscDecor/Miscelanoius Decor.md",
-    "Altair/LineCharts/1. Alt.LineCharts.md",
-    "Altair/Alt Grammar/AltairGrammar_Selection.md",
     "Altair/Alt Connectivity",
     "Altair/Alt Grammar",
-    "Altair/LineCharts/Alt.LineChart_LineLastDotLabel.md",
-    "Pandas/0. Entrance to PD =).md",
-    "Altair/MiscDecor/HeatMapAsLegend.md",
     "Altair/MiscDecor",
-    "altair/MiscDecor",
-    "Altair/LineCharts",
-    "Altair/BarCharts",
-    "Altair/Alt Pics"
+    "altair/MiscDecor"
   ]
 }
