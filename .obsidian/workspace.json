@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f5972ad9367e0bb2",
+        "id": "9842cea6d7b9c86a",
         "type": "tabs",
         "children": [
           {
-            "id": "93ab9f052f86c476",
+            "id": "17bc7b04921b46d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vega-Lite/Properties and Config/ChartProperties.md",
+                "file": "Vega-Lite/Vega-Lite Basic Grammar/Encodings.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f69dbce669a5f843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vega-Lite/Vega-Lite Solutions and Cases/VL Solutions For Dates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +34,12 @@
             }
           },
           {
-            "id": "91973d9f1a032a6d",
+            "id": "8d7465432823fb0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vega-Lite/Properties and Config/0.p. Chart Configuration and Customization.md",
+                "file": "Vega-Lite/Vega-Lite Solutions and Cases/Vega-Lite Complex Solutions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +47,12 @@
             }
           },
           {
-            "id": "0d6207ea953efd61",
+            "id": "4ff121f493d02382",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vega-Lite/Properties and Config/0.p. Chart Configuration and Customization.md",
+                "file": "PowerShell/PowerShell Excel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +60,12 @@
             }
           },
           {
-            "id": "103d564a00d387ca",
+            "id": "fba44afe9513b0f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altair/MiscDecor/Legend.md",
+                "file": "PowerShell/0. PowerShell Zero Page.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,25 +73,12 @@
             }
           },
           {
-            "id": "7156f99b2b6f9bd2",
+            "id": "aae45f1f3afa13c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vega-Lite/Properties and Config/0.p. Chart Configuration and Customization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "357ffec7c586c854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
+                "file": "Excel =)/Vars and Lambdas in Excel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,10 +116,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dates",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -133,8 +133,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a49f09c248e7a10b",
@@ -147,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
+                "file": "Excel =)/Vars and Lambdas in Excel.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +169,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 40,
-                  "scale": 0.9149104867993089,
+                  "scale": 0.7161271457366176,
                   "close": true
                 }
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
+                "file": "Excel =)/Vars and Lambdas in Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
+                "file": "Excel =)/Vars and Lambdas in Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md"
+                "file": "Excel =)/Vars and Lambdas in Excel.md"
               }
             }
           },
@@ -266,53 +265,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "357ffec7c586c854",
+  "active": "aae45f1f3afa13c2",
   "lastOpenFiles": [
-    "Vega-Lite/Properties and Config/0.p. Chart Configuration and Customization.md",
-    "Altair/MiscDecor/Alt.ClickableLegend.md",
-    "Altair/MiscDecor/Legend.md",
-    "Vega-Lite/VegaGrammar/Encodings.md",
-    "Vega-Lite/0. Vega-Lite knowledge hub.md",
-    "Vega-Lite/Selection/Vega-Lite Parameters_sliders.md",
-    "Vega-Lite/Selection/Vega-Lite Selection.md",
-    "Vega-Lite/Selection",
-    "Vega-Lite Parameters/sliders.md",
-    "Vega-Lite Parameters",
-    "Vega-Lite/Vega-Lite Solution/Vega-Lite Solutions For Dates.md",
-    "Altair/Alt Grammar/AltairGrammar_Selection.md",
-    "Altair/Alt Grammar/Altair Grammar.md",
-    "Vega-Lite/Vega-Lite Solution",
+    "PowerShell/0. PowerShell Zero Page.md",
+    "Excel =)/Vars and Lambdas in Excel.md",
+    "Excel =)",
+    "PowerShell/PowerShell Excel.md",
+    "Vega-Lite/Vega-Lite Solutions and Cases/Vega-Lite Complex Solutions.md",
+    "Vega-Lite/Vega-Lite Solutions and Cases/VL Solutions For Dates.md",
+    "Altair/Alt Connectivity/Altair Export selected data.md",
+    "Vega-Lite/Vega-Lite Basic Grammar/Encodings.md",
+    "Pasted image 20231208144544.png.md",
+    "Vega-Lite/imgs/Pasted image 20231208144047.png",
+    "Vega-Lite/imgs/Pasted image 20231208144544.png",
     "Vega-Lite/Properties and Config/ChartProperties.md",
-    "Vega-Lite/Properties and Config/axisProperties.md",
-    "AutoHotKey/ahk_controls.md",
-    "AutoHotKey/ahk_basics.md",
+    "Vega-Lite/Properties and Config/0.p. Chart Configuration and Customization.md",
+    "Altair/MiscDecor/Legend.md",
+    "Vega-Lite/0. Vega-Lite knowledge hub.md",
+    "Vega-Lite/Vega-Lite Solutions and Cases/Parse data on Reading.md",
+    "Vega-Lite/Vega-Lite Basic Grammar/TransformCalculate/Vega-Lite Calculate Adv Examples.md",
+    "Vega-Lite/Vega-Lite Basic Grammar/TransformCalculate/Vega-Lite Calculate basic Examples.md",
+    "Vega-Lite/Vega-Lite Basic Grammar/TransformCalculate/Vega-Lite Expressions.md",
+    "Vega-Lite/Vega-Lite Basic Grammar/TransformCalculate/Transform Calculate.md",
+    "Vega-Lite/Vega-Lite Basic Grammar/Functions.md",
+    "Vega-Lite/Vega-Lite Basic Grammar/TransformCalculate/Transform.md",
+    "Vega-Lite/VegaL-Lite mark_charts/Vega-Lite Text Mark.md",
+    "Vega-Lite/Vega-Lite Basic Grammar/TransformCalculate",
+    "Vega-Lite/VegaL-Lite mark_charts/Vega-Lite Line Mark.md",
+    "[Functions.md",
+    "Vega-Lite/Vega-Lite Solutions and Cases/multiline MarkText Solution.md",
+    "Vega-Lite/Vega-Lite Basic Grammar/Marks Properties.md",
+    "Vega-Lite/Vega-Lite Transform Calculate",
+    "Altair/MiscDecor/Alt.ClickableLegend.md",
+    "Vega-Lite/Selection/Vega-Lite Parameters_sliders.md",
+    "Vega-Lite/Selection",
+    "Vega-Lite Parameters",
+    "Vega-Lite/Vega-Lite Solutions and Cases",
     "AutoHotKey/AHK Imgs/Pasted image 20231203214158.png",
     "AutoHotKey/AHK Imgs/Pasted image 20231203214145.png",
     "AutoHotKey/AHK Imgs",
-    "Vega-Lite/VegaLineMark/Vega-Lite Line Mark.md",
-    "Altair/Altair Solutions.md",
-    "Altair/LineCharts/Alt.LineChart_MultilineTooltip.md",
-    "Altair/0. Altair Entrance Point.md",
     "Vega-Lite/imgs/Pasted image 20231205173704.png",
     "Vega-Lite/imgs/Pasted image 20231205145828.png",
     "Vega-Lite/imgs/Pasted image 20231205145846.png",
     "Vega-Lite/imgs/Pasted image 20231205145602.png",
     "Vega-Lite/imgs/Pasted image 20231205145118.png",
     "Vega-Lite/imgs/Pasted image 20231205145025.png",
-    "Vega-Lite/imgs/Pasted image 20231205143414.png",
-    "Vega-Lite/imgs/Pasted image 20231205143741.png",
-    "Vega-Lite/VegaGrammar/Marks Properties.md",
-    "Vega-Lite/VegaGrammar",
-    "Vega-Lite/VegaLineMark",
-    "Altair/Alt Connectivity/Altair to Vega-Lite export.md",
-    "Altair/LargeDatasets.md",
-    "Altair/BarCharts/Alt.GanntChart.md",
-    "Altair/LineCharts/LineCharts.md",
-    "Altair/BarCharts/BarCharts.md",
-    "Altair/MiscDecor/Miscelanoius Decor.md",
-    "Altair/Alt Connectivity",
-    "Altair/Alt Grammar",
-    "Altair/MiscDecor",
-    "altair/MiscDecor"
+    "Vega-Lite/Vega-Lite Basic Grammar",
+    "Vega-Lite/VegaL-Lite mark_charts",
+    "Altair/Alt Connectivity"
   ]
 }
