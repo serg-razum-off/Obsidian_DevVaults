@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29d4ffb678437d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excel =)/PowerBI connect to Excel file in Teams Chat.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excel =)/Vars and Lambdas in Excel.md",
+                "file": "Excel =)/PowerBI connect to Excel file in Teams Chat.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel =)/Vars and Lambdas in Excel.md",
+                "file": "Excel =)/PowerBI connect to Excel file in Teams Chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel =)/Vars and Lambdas in Excel.md",
+                "file": "Excel =)/PowerBI connect to Excel file in Teams Chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel =)/Vars and Lambdas in Excel.md"
+                "file": "Excel =)/PowerBI connect to Excel file in Teams Chat.md"
               }
             }
           },
@@ -265,10 +278,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aae45f1f3afa13c2",
+  "active": "0e6c4ae0f28f08b6",
   "lastOpenFiles": [
-    "PowerShell/0. PowerShell Zero Page.md",
     "Excel =)/Vars and Lambdas in Excel.md",
+    "Excel =)/PowerBI connect to Excel file in Teams Chat.md",
+    "PowerShell/0. PowerShell Zero Page.md",
     "Excel =)",
     "PowerShell/PowerShell Excel.md",
     "Vega-Lite/Vega-Lite Solutions and Cases/Vega-Lite Complex Solutions.md",
@@ -297,7 +311,6 @@
     "Vega-Lite/Vega-Lite Basic Grammar/Marks Properties.md",
     "Vega-Lite/Vega-Lite Transform Calculate",
     "Altair/MiscDecor/Alt.ClickableLegend.md",
-    "Vega-Lite/Selection/Vega-Lite Parameters_sliders.md",
     "Vega-Lite/Selection",
     "Vega-Lite Parameters",
     "Vega-Lite/Vega-Lite Solutions and Cases",
