@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a35756a4e8f3151f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excel =)/Smart Lookups.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -159,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excel =)/PowerBI connect to Excel file in Teams Chat.md",
+                "file": "Excel =)/Smart Lookups.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel =)/PowerBI connect to Excel file in Teams Chat.md",
+                "file": "Excel =)/Smart Lookups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel =)/PowerBI connect to Excel file in Teams Chat.md",
+                "file": "Excel =)/Smart Lookups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel =)/PowerBI connect to Excel file in Teams Chat.md"
+                "file": "Excel =)/Smart Lookups.md"
               }
             }
           },
@@ -278,8 +291,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e6c4ae0f28f08b6",
+  "active": "a35756a4e8f3151f",
   "lastOpenFiles": [
+    "Excel =)/IMG/Pasted image 20231219092748.png",
+    "Pasted image 20231219092637.png.md",
+    "Excel =)/Smart Lookups.md",
+    "Excel =)/IMG/Pasted image 20231219092637.png",
+    "Excel =)/IMG",
+    "Vega-Lite/Vega-Lite Basic Grammar/Encodings.md",
     "Excel =)/Vars and Lambdas in Excel.md",
     "Excel =)/PowerBI connect to Excel file in Teams Chat.md",
     "PowerShell/0. PowerShell Zero Page.md",
@@ -288,7 +307,6 @@
     "Vega-Lite/Vega-Lite Solutions and Cases/Vega-Lite Complex Solutions.md",
     "Vega-Lite/Vega-Lite Solutions and Cases/VL Solutions For Dates.md",
     "Altair/Alt Connectivity/Altair Export selected data.md",
-    "Vega-Lite/Vega-Lite Basic Grammar/Encodings.md",
     "Pasted image 20231208144544.png.md",
     "Vega-Lite/imgs/Pasted image 20231208144047.png",
     "Vega-Lite/imgs/Pasted image 20231208144544.png",
@@ -307,10 +325,7 @@
     "Vega-Lite/Vega-Lite Basic Grammar/TransformCalculate",
     "Vega-Lite/VegaL-Lite mark_charts/Vega-Lite Line Mark.md",
     "[Functions.md",
-    "Vega-Lite/Vega-Lite Solutions and Cases/multiline MarkText Solution.md",
-    "Vega-Lite/Vega-Lite Basic Grammar/Marks Properties.md",
     "Vega-Lite/Vega-Lite Transform Calculate",
-    "Altair/MiscDecor/Alt.ClickableLegend.md",
     "Vega-Lite/Selection",
     "Vega-Lite Parameters",
     "Vega-Lite/Vega-Lite Solutions and Cases",
@@ -322,9 +337,7 @@
     "Vega-Lite/imgs/Pasted image 20231205145846.png",
     "Vega-Lite/imgs/Pasted image 20231205145602.png",
     "Vega-Lite/imgs/Pasted image 20231205145118.png",
-    "Vega-Lite/imgs/Pasted image 20231205145025.png",
     "Vega-Lite/Vega-Lite Basic Grammar",
-    "Vega-Lite/VegaL-Lite mark_charts",
-    "Altair/Alt Connectivity"
+    "Vega-Lite/VegaL-Lite mark_charts"
   ]
 }
